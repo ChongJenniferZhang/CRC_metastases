@@ -1,4 +1,4 @@
-#This .sh is for running BWA for sequencing paired fastq data. By Chong Jennifer Zhang. 20160901
+#This .sh is for running BWA for pair-end fastq sequencing data. By Chong Jennifer Zhang. 20160901
 
 samtoolspath="/your_path_to/samtools"
 bwarun="/your_path_to/SangerQ-bwaRunnerforhumanG"
